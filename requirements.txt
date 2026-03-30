@@ -1,5 +1,9 @@
-opencv-python
-easyocr
-matplotlib
+opencv-python-headless
+Pillow
+scikit-image
 numpy
+matplotlib
 imutils
+easyocr
+streamlit
+pandas
