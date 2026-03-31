@@ -1,3 +1,4 @@
+
 # 🚗 Automatic Number Plate Recognition System (ANPR)
 
 A Computer Vision-based system that detects and recognizes vehicle number plates using OpenCV and EasyOCR, with a simple Streamlit dashboard for visualization.
